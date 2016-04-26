@@ -2,8 +2,8 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="D:/JAVA WEB开发/java soft/MySQL Connector J/mysql-connector-java-5.1.26-bin.jar"/>
-	<classpathentry kind="lib" path="D:/JAVA WEB开发/java soft/jxl.jar"/>
+	<classpathentry kind="lib" path="D:/Java/dev/MySQL Connector J/mysql-connector-java-5.1.26-bin.jar"/>
+	<classpathentry kind="lib" path="D:/Java/dev/jxl.jar"/>
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/dom4j-1.6.1.jar"/>
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/poi-3.7.jar"/>
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/poi-ooxml-3.7.jar"/>
